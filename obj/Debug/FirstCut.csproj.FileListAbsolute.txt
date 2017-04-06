@@ -1,0 +1,10 @@
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\bin\Debug\ConsoleApplication.exe.config
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\bin\Debug\ConsoleApplication.exe
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\bin\Debug\ConsoleApplication.pdb
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\FirstCut.csprojResolveAssemblyReference.cache
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\ConsoleApplication.rewritten
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\ConsoleApplication.exe
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\ConsoleApplication.pdb
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\Decl\ConsoleApplication.exe
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\Decl\ConsoleApplication.pdb
+C:\Users\dmoel\Development\6SEM\Contracts\New folder\FirstCutContract\obj\Debug\CodeContractAnalysisRun.log
